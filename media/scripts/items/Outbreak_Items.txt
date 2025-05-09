@@ -1,0 +1,89 @@
+module OutbreakItems
+{
+    imports
+    {
+        Base
+    }
+
+    item KatanaGodblade
+    {
+        DisplayName = Katana of Pure Overkill,
+        Type = Weapon,
+        SubCategory = Swinging,
+        MaxDamage = 500,
+        MinDamage = 400,
+        MaxRange = 1.35,
+        WeaponLength = 1.2,
+        SwingTime = 0.3,
+        Categories = Blade,
+        Weight = 1.0,
+        MaxHitCount = 5,
+        Knockback = true,
+        KnockdownMod = 5,
+        ConditionMax = 100000,
+        CriticalChance = 100,
+        CritDmgMultiplier = 10,
+        Icon = Katana,                // Replace with custom icon if available
+        AttachmentType = BigBlade,
+        Tags = Sharp,
+        DoorDamage = 20,
+        BaseSpeed = 1.2,
+        MinimumSwingTime = 0.3,
+        SwingAmountBeforeImpact = 0.02,
+        SwingAnim = Bat,
+        ImpactSound = KatanaHit,
+        SwingSound = KatanaSwing,
+        HitSound = KatanaHit,
+        WeaponSprite = Katana,
+        Model = Katana,
+        IdleAnim = Idle_Weapon2,
+        PrimaryAnimMask = RightHand,
+        SecondaryAnimMask = LeftHand,
+        TwoHandWeapon = TRUE,
+        PhysicsObject = MetalBar,
+    }
+}module OutbreakItems
+{
+    imports
+    {
+        Base
+    }
+
+    item KatanaGodblade
+    {
+        DisplayName = Katana of Pure Overkill,
+        Type = Weapon,
+        SubCategory = Swinging,
+        MaxDamage = 500,
+        MinDamage = 400,
+        MaxRange = 1.35,
+        WeaponLength = 1.2,
+        SwingTime = 0.3,
+        Categories = Blade,
+        Weight = 1.0,
+        MaxHitCount = 5,
+        Knockback = true,
+        KnockdownMod = 5,
+        ConditionMax = 100000,
+        CriticalChance = 100,
+        CritDmgMultiplier = 10,
+        Icon = Katana,
+        AttachmentType = BigBlade,
+        Tags = Sharp,
+        DoorDamage = 20,
+        BaseSpeed = 1.2,
+        MinimumSwingTime = 0.3,
+        SwingAmountBeforeImpact = 0.02,
+        SwingAnim = Bat,
+        ImpactSound = KatanaHit,
+        SwingSound = KatanaSwing,
+        HitSound = KatanaHit,
+        WeaponSprite = Katana,
+        Model = Katana,
+        IdleAnim = Idle_Weapon2,
+        PrimaryAnimMask = RightHand,
+        SecondaryAnimMask = LeftHand,
+        TwoHandWeapon = TRUE,
+        PhysicsObject = MetalBar,
+    }
+}
