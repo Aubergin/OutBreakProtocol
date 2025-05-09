@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "sumneko.lua",
+    "vscode.ini",
+    "eamodio.gitlens",
+    "christian-kohler.path-intellisense",
+    "coenraads.bracket-pair-colorizer-2",
+    "gruntfuggly.todo-tree"
+  ]
+}
